@@ -12,7 +12,7 @@ git clone https://github.com/shafayet98/simple-express-starter-bsh.git
 ```
 2. go to the simple-express-starter folder
 ```
-cd simple-express-starter
+cd simple-express-starter-bsh
 ```
 3. make the script executible 
 ```
