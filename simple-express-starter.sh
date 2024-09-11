@@ -22,7 +22,7 @@ mkdir database routes middlewares
 echo "const express = require("express")" > index.js
 echo "const app = express();" >> index.js
 echo "require('dotenv').config();" >> index.js
-echo "app.use(cors());"
+echo "app.use(cors());" >> index.js
 echo "app.use(express.json());" >> index.js
 echo "const port = process.env.PORT || 3000;" >> index.js
 echo "app.listen(port, () => console.log('Server running on port ' + port));" >> index.js
