@@ -1,12 +1,12 @@
 simple-express-starter is a shell script which will help to create a starter template for any node/express application.
 
 ### prerequisite (must be installed)
-1. Node
-2. NPM
+1. node
+2. npm
 
 ### installation Process
 
-1. Clone the project to any directory
+1. clone the project to any directory
 ```
 git clone https://github.com/shafayet98/simple-express-starter-bsh.git
 ```
