@@ -4,7 +4,7 @@ simple-express-starter is a shell script which will help to create a starter tem
 1. node
 2. npm
 
-### installation Process
+### installation process (mac-os)
 
 1. clone the project to any directory
 ```
@@ -38,4 +38,9 @@ cd test-dir
 7. run the command
 ```
 simple-express-starter
+```
+
+###### if for any reason the script needs to be deleted: please use the following command
+```
+sudo rm /usr/local/bin/simple-express-starter
 ```
